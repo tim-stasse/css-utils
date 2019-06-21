@@ -158,7 +158,7 @@
     "react-dom": "^16.8.6",
     "react-styleguidist": "^9.1.7",
     "rimraf": "^2.6.3",
-    "rollup": "^1.15.6",
+    "rollup": "^1.16.0",
     "semantic-release": "^15.13.16",
     "toctoc": "^0.3.2",
     "webpack": "^4.34.0"
