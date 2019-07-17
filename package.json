@@ -161,7 +161,7 @@
     "rollup": "^1.15.6",
     "semantic-release": "^15.13.16",
     "toctoc": "^0.3.2",
-    "webpack": "^4.34.0"
+    "webpack": "^4.36.1"
   },
   "jest": {
     "roots": [
